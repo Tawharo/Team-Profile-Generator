@@ -1,8 +1,8 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Description",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Tawharo/Team-Profile-Generator#readme",
   "dependencies": {
-    "inquirer": "^7.1.0"
+    "inquirer": "^7.1.0",
+    "jest": "^26.0.1"
   },
   "devDependencies": {}
 }
